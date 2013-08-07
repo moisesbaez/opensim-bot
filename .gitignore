@@ -1,0 +1,9 @@
+#Filetypes that are ignored and untracked
+#
+*.config
+*.csproj
+*.ico
+bin/
+Properties/
+obj/
+Original.cs
